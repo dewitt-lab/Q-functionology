@@ -12,3 +12,5 @@ Simulations supporting equivalence among forward-time guidance, forward-time mea
 ## Simulations
 
 Run the Jupyter notebook [`simulations.ipynb`](simulations.ipynb) to reproduce figure [`simulations.pdf`](simulations.pdf)
+
+[![simulations](simulations.png)](simulations.pdf)
